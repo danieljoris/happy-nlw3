@@ -5,7 +5,7 @@
 ## Um pouquinho sobre o projeto
 O Happy é um projeto que se propõe a facilitar visitas a orfanatos que estão próximos a você!
 
-Todo o projeto foi desenvolvido na [Next Level Week #3](https://nextlevelweek.com/) da [@Rocketseat](https://github.com/Rocketseat) que foi realizado entre 12/10/2020 e 16/10/2020.
+Todo o projeto foi desenvolvido na [Next Level Week #3](https://nextlevelweek.com/) da [@Rocketseat](https://github.com/Rocketseat) que foi realizada entre 12/10/2020 e 16/10/2020.
 
 ## Como iniciar?
 
